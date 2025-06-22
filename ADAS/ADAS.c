@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("ADAS ECU update...\n");
+    printf("ADAS update...\n");
     return 0;
 }

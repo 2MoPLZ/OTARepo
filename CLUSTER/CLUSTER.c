@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("CLUSTER ECU update...\n");
+    printf("CLUSTER update...\n");
     return 0;
 }

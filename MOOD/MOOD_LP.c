@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("MODD_LP ECU update...\n");
+    printf("MODD_LP update...\n");
     return 0;
 }
